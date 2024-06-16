@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "63133d03375499d7fd779937"
+  },
+  "name": "steve",
+  "email": "nyasteve29@gmail.com",
+  "password": "12345678",
+  "avatar": {
+    "public_id": "https://test.com",
+    "url": "https://test.com"
+  },
+  "role": "User",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631346563f06864b6a85041c"
+  },
+  "name": "njeudji",
+  "email": "nyasteve31@gmail.com",
+  "password": "$2a$10$79vOeru.nXwc8jjwFmVjmOra/ikCHmmzSjNOgyFOIQoSVy5H5TcUi",
+  "avatar": {
+    "public_id": "https://test.com",
+    "url": "https://test.com"
+  },
+  "role": "User",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6313cc9db50cd272fd1a3e33"
+  },
+  "name": "stevenyaN",
+  "email": "nyasteve32@gmail.com",
+  "password": "$2a$10$Zum1XB8cIXw8QoME69zGuORson9NNwBahFxcAxRwJ2dTAeMKnDaSq",
+  "avatar": {
+    "public_id": "https://test.com",
+    "url": "https://test.com"
+  },
+  "role": "Admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6313da51e5a4f6986801f287"
+  },
+  "name": "stevey00",
+  "email": "mynewemail3@gmail.com",
+  "password": "$2a$10$S4bmJc8LifjCQqQjhA5.S.gyACQBzcmyrQCLe0yV.vT2mkSzI9cmC",
+  "avatar": {
+    "public_id": "https://test.com",
+    "url": "https://test.com"
+  },
+  "role": "Admin",
+  "__v": 0
+}]

@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "6312b75a9664df2a8a93b63b"
+  },
+  "name": "football",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "6312b75a9664df2a8a93b63c"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 9,
+  "numberOfReviews": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662170925669"
+    }
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6313da51e5a4f6986801f287"
+      },
+      "name": "stevey00",
+      "rating": 4,
+      "comment": "not bad",
+      "time": {
+        "$date": {
+          "$numberLong": "1662489917296"
+        }
+      },
+      "_id": {
+        "$oid": "6317954843586b95ab15b34e"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "6313272ca655867517351320"
+  },
+  "name": "4",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "6313272ca655867517351321"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 10,
+  "numberOfReviews": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662199326827"
+    }
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63132733a655867517351323"
+  },
+  "name": "5",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "63132733a655867517351324"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 10,
+  "numberOfReviews": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662199326827"
+    }
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6313da51e5a4f6986801f287"
+      },
+      "name": "stevey00",
+      "rating": 4,
+      "comment": "thumbs up.",
+      "time": {
+        "$date": {
+          "$numberLong": "1662490063888"
+        }
+      },
+      "_id": {
+        "$oid": "631796825a9e93adc1ec45c2"
+      }
+    },
+    {
+      "user": {
+        "$oid": "631346563f06864b6a85041c"
+      },
+      "name": "njeudji",
+      "rating": 4,
+      "comment": "thumbs up.",
+      "time": {
+        "$date": {
+          "$numberLong": "1662490063888"
+        }
+      },
+      "_id": {
+        "$oid": "6317972f5a9e93adc1ec45ce"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "63132738a655867517351326"
+  },
+  "name": "6",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "63132738a655867517351327"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 10,
+  "numberOfReviews": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662199326827"
+    }
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6313273ea655867517351329"
+  },
+  "name": "7",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "6313273ea65586751735132a"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 10,
+  "numberOfReviews": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662199326827"
+    }
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63132743a65586751735132c"
+  },
+  "name": "8",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "63132743a65586751735132d"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 10,
+  "numberOfReviews": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662199326827"
+    }
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63132746a65586751735132f"
+  },
+  "name": "9",
+  "description": "It is for testing purpose",
+  "price": 1000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "testing.com",
+      "url": "testing.com",
+      "_id": {
+        "$oid": "63132746a655867517351330"
+      }
+    }
+  ],
+  "category": "sports",
+  "stock": 10,
+  "numberOfReviews": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662199326827"
+    }
+  },
+  "reviews": [],
+  "__v": 0
+}]
